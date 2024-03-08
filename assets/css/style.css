@@ -1691,6 +1691,8 @@ margin-right: 10px;
   font-size: 14px;
   /* background: #37517e; */
   background-image: linear-gradient(#00a9fa0d, #fb01c40d);
+  border-top-left-radius: 90px;
+  border-top-right-radius: 90px;
 }
 @media (max-width:768px){
   #footer .footer-newsletter {
