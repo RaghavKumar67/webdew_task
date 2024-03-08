@@ -1690,6 +1690,7 @@ margin-right: 10px;
 #footer {
   font-size: 14px;
   /* background: #37517e; */
+  /* background-image: linear-gradient(#00a9fa0d, #fb01c40d); */
 }
 @media (max-width:768px){
   #footer .footer-newsletter {
@@ -1892,7 +1893,7 @@ margin-right: 10px;
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #00A9FA;
+  background: #99ACC2;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1905,7 +1906,7 @@ margin-right: 10px;
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #000000;
   color: #fff;
   text-decoration: none;
 }
@@ -1913,7 +1914,7 @@ margin-right: 10px;
 #footer .footer-bottom {
   padding-top: 30px;
   padding-bottom: 30px;
-  color: #fff;
+  color: #99ACC2;
 }
 
 #footer .copyright {
@@ -2072,6 +2073,16 @@ display: block;
   color: #00A9FA;
 }
 
+
+.titlefoot{
+  /* font-family: Proxima Nova; */
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0.05em;
+  /* text-align: left; */
+  color: #00A9FA;
+}
 
 .hero-title{
 font-size: 48px;
@@ -2887,4 +2898,24 @@ padding-bottom: 20px;
   text-align: center;
   pointer-events: none;
   color: #aaa;
+}
+
+.textweb{
+  color: #00A9FA !important;
+}
+
+
+.delfooter {
+  font-size: 15px !important;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #253342;
+  font-family: 'Proxima Nova Bold', sans-serif;
+}
+
+.footercolor{
+  border-top:1px solid #E0E8F0;
+  border-bottom:1px solid #E0E8F0;
 }
