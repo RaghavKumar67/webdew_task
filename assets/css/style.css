@@ -1700,7 +1700,7 @@ margin-right: 10px;
   
 #footer .footer-newsletter1 {
   padding: 50px 0;
-  background: #fff;
+  /* background: #fff; */
   text-align: center;
   font-size: 15px;
   color: #444444;
@@ -1759,7 +1759,7 @@ margin-right: 10px;
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #fff;
+  /* background: #fff; */
   text-align: center;
   font-size: 15px;
   color: #444444;
@@ -2179,6 +2179,8 @@ color: #33475B !important;
   padding: 20px 0px 20px 0px;
   border-radius: 20px;
   border: 1px solid #00a9fa2b;
+  bottom: 110px;
+  position: relative;
 }
 /* .play{
   background-image: url("../img/play.png") !important;
