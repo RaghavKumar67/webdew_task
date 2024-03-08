@@ -2032,6 +2032,9 @@ display: block;
       width:553px;
     }
 
+   .footermob{
+    display: none !important;
+   }
 
 /* 
 .navbar li > a {
@@ -2629,6 +2632,9 @@ letter-spacing: 0em;
         width: 50%;
       }
 
+      .footerdesk{
+        display: none !important;
+      }
      
     }
     
